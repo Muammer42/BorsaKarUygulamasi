@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanSıkıntısı", "CanSıkıntısı.csproj", "{5E183A6F-D84A-4B18-BA84-5A422114A749}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Borsa Uygulaması", "..\Borsa Uygulaması\Borsa Uygulaması.vdproj", "{C9F16324-6080-47E9-AF14-4494E711ADB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E183A6F-D84A-4B18-BA84-5A422114A749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E183A6F-D84A-4B18-BA84-5A422114A749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E183A6F-D84A-4B18-BA84-5A422114A749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E183A6F-D84A-4B18-BA84-5A422114A749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F16324-6080-47E9-AF14-4494E711ADB8}.Debug|Any CPU.ActiveCfg = Debug
+		{C9F16324-6080-47E9-AF14-4494E711ADB8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D183840-420A-4446-A337-BBC1E1B0D074}
+	EndGlobalSection
+EndGlobal
